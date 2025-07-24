@@ -110,4 +110,5 @@ Este projeto está sob a licença MIT License.
 
 ## 👤 Autor
 **Nome:** Caio Vinicius Silva Gomes
+
 **LinkedIn:** [www.linkedin.com/in/caiovinicius-gomes](www.linkedin.com/in/caiovinicius-gomes)
